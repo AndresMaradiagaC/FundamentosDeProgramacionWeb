@@ -1,0 +1,75 @@
+.fondoimg {
+    background-image: url("../imagenes/banner1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.diseño {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.titulo1 {
+    font-size: 60px;
+}
+
+.titulo2 {
+    font-size: 25px;
+}
+
+.container-fluid {
+    padding-top: 210px;
+    padding-bottom: 200px;
+}
+#Facebook {
+    font-size: 50px; 
+    color: blue; 
+}
+
+#Instagram {
+    font-size: 50px; 
+    color: #e4405f; 
+}
+
+#Youtube {
+    font-size: 50px; 
+    color: red; 
+}
+
+.error{
+    color: red;
+}
+.tamaño{
+    font-size:17px;
+
+}
+
+.fondo1{
+    background-color: rgb(252, 89, 60);
+}
+
+.container-fluid2{
+    padding-top: 35px;
+    padding-bottom: 35px;
+
+}
+
+#contacto{
+    font-size: 50px;
+    color: #f51b07;
+}
+
+#quienes{
+    font-size: 50px;
+    color: #f51b07;
+}
+
+#servicios{
+    font-size: 50px;
+    color: #f51b07;
+}
+
